@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm [Agarwal Prerna]
 
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
