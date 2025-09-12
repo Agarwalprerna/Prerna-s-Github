@@ -20,6 +20,8 @@ I am a final year Electrical Engineering student at NIT Surat. I am passionate a
 ![Vivad0](https://img.shields.io/badge/Vivado-orange?style=for-the-badge&logo=xilinx)
 ![Modelim](https://img.shields.io/badge/ModelSim-blue?style=for-the-badge&logo=Modelsim)
 ![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=Canva)
+![MATLAB](https://img.shields.io/badge/matlab-white?style=for-the-badge&logo=Matlab)
+![Keil-uVision](https://img.shields.io/badge/keil-uvision-green?style=for-the-badge&logo=Keil)
 ...
 
 ## Top Projects
