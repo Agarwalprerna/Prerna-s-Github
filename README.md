@@ -1,10 +1,10 @@
 # Hi there 👋, I'm [Agarwal Prerna]
 
-[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
-[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agarwalprerna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prerna-agarwal-058a3424b/)
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarwalprerna0985@gmail.com)
 
-I am a [Your Course/Role] at [Your Institution]. I am passionate about [Your Interests].
+I am a [final year Electrical Engineering student] at [NIT Surat]. I am passionate about [VLSI and Semiconductor Chip Industry].
 
 ## Tech Stack
 
@@ -17,6 +17,8 @@ I am a [Your Course/Role] at [Your Institution]. I am passionate about [Your Int
 **Software and Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vivad0](https://img.shields.io/badge/Vivado-orange?style=for-the-badge&logo=xilinx)
+![Modelim]("https://img.shields.io/badge/ModelSim-blue?style=for-the-badge")
 ...
 
 ## Top Projects
