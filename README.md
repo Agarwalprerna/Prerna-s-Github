@@ -18,9 +18,10 @@ I am a final year Electrical Engineering student at NIT Surat. I am passionate a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vivad0](https://img.shields.io/badge/Vivado-orange?style=for-the-badge&logo=xilinx)
-![Modelim]("https://img.shields.io/badge/ModelSim-blue?style=for-the-badge&logo=Modelsim")
+![Modelim](https://img.shields.io/badge/ModelSim-blue?style=for-the-badge&logo=Modelsim)
 ...
 
 ## Top Projects
-- Project 1: [Link](https://github.com/Agarwalprerna/Riscv.git)
-- Project 2: [Link](https://github.com/Agarwalprerna/MEMORY-CONTROLLER.git)
+- RISC V CPU : [Link](https://github.com/Agarwalprerna/Riscv.git)
+- MEMORIES: [Link](https://github.com/Agarwalprerna/MEMORY-CONTROLLER.git)
+
